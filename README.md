@@ -42,16 +42,14 @@ Check out the live demo of the landing page [here](https://abhinavhh.github.io/N
 
 ## Usage
 
-**To customize the landing page or add new features, follow these steps**:
+To customize the landing page or add new features, follow these steps:
 
-    1. Navigate to the src directory where the main components and assets are located.
-    2. Edit the components as needed. The primary layout and content are managed in the components and pages directories.
-    3. Update styles using Tailwind CSS classes. You can also extend or override styles in the src/index.css file.
-    4. Modify the Hero Section: The hero section includes interactive image changes. Update the images and transitions in the HeroSection component located in src/components          /HeroSection.js.
+ 1. Navigate to the src directory where the main components, constants, sections and assets are located.
+ 2. Edit the components, constants, sections as needed. The primary layout and content are managed in the sections directory.
+ 3. Update styles using Tailwind CSS classes. You can also extend or override styles in the src/index.css file.
+ 4. Modify the Hero Section: The hero section includes interactive image changes. Update the images in the Hero component located in src/sections/Hero.jsx and from there to src/components/ShoeCard.js
 
 ## Contributing
 
 - Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue to discuss what you would like to change.
-
-##
 
