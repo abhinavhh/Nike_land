@@ -13,7 +13,7 @@ A modern and responsive landing page for showcasing Nike shoes, built with React
 
 ## Demo
 
-Check out the live demo of the landing page [here](https://abhinavhh.github.io/Nike_land/).
+Check out the live demo of the landing page <a href="https://abhinavhh.github.io/Nike_land/">here</a>.
 
 ## Features
 
