@@ -1,8 +1,57 @@
-# React + Vite
+# Nike Shoes Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive landing page for showcasing Nike shoes, built with React.js and styled using Tailwind CSS. This landing page features a dynamic hero section with interactive image changes.
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Demo](#demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+
+## Demo
+
+Check out the live demo of the landing page [here](https://abhinavhh.github.io/Nike_land/).
+
+## Features
+
+- **Responsive Design**: The landing page is fully responsive, providing an optimal viewing experience across all devices.
+- **Interactive Hero Section**: Includes an interactive hero section where images change dynamically.
+- **Clean and Modern UI**: Designed with a modern and minimalistic approach, focusing on visual appeal and usability.
+
+## Technologies Used
+
+- **React.js**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
+
+## Installation
+
+1. **Clone the repository**:
+
+   ```bash
+   git clone https://github.com/abhinavhh/Nike_land.git
+   cd your-repository-name
+2. **Install dependencies**:
+   ```bash
+   npm install
+3. **Start the development server**:
+   ```bash
+   npm start
+
+## Usage
+
+**To customize the landing page or add new features, follow these steps**:
+
+    1. Navigate to the src directory where the main components and assets are located.
+    2. Edit the components as needed. The primary layout and content are managed in the components and pages directories.
+    3. Update styles using Tailwind CSS classes. You can also extend or override styles in the src/index.css file.
+    4. Modify the Hero Section: The hero section includes interactive image changes. Update the images and transitions in the HeroSection component located in src/components          /HeroSection.js.
+
+## Contributing
+
+- Contributions are welcome! Please fork the repository and create a pull request with your changes. For major changes, please open an issue to discuss what you would like to change.
+
+##
+
